@@ -15,6 +15,6 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  let pics = $('div .pics');
+  let pics = $('.pics');
   return pics;
 }
