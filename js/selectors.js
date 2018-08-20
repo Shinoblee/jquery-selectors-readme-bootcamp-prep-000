@@ -20,5 +20,6 @@ function divSelector(){
 }
 
 function firstListItem(){
-  
+  let pic = $('li:first');
+  return pic;
 }
