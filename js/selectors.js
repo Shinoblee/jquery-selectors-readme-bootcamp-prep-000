@@ -13,3 +13,8 @@ function ninjaBabySelector(){
   let image = $('#baby-ninja');
   return image;
 }
+
+function divSelector(){
+  let pics = $('div .pics');
+  return pics;
+}
