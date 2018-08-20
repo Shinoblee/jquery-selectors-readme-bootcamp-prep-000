@@ -8,3 +8,8 @@ function lastImageSelector(){
   let image = $('div img:last');
   return image;
 }
+
+function ninjaBabySelector(){
+  let image = $('#baby-ninja');
+  return image;
+}
